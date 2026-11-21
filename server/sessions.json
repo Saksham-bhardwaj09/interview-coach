@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Welcome! Let me be clear: I'm looking for strong logic and optimal solutions today. Let's start with a classic.\n\nGiven an array of integers and a target sum, how would you find two numbers that add up to that target? \n\nWalk me through your approach and state its time and space complexity.",
+    "answer": "dont no",
+    "clarity": 1,
+    "correctness": 1,
+    "confidence": 1,
+    "feedback": "Review foundational data structures and algorithms, such as using a Hash Map for the Two Sum problem.",
+    "date": "2026-10-27T15:10:52.020Z"
+  }
+]
